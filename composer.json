@@ -1,21 +1,21 @@
 {
-    "name": "mihaildev/yii2-ckeditor",
+    "name": "vxdiv/yii2-ckeditor",
     "keywords": ["yii", "wysiwyg", "editor", "CKEditor"],
     "description": "Yii2 CKEditor",
-    "homepage": "https://github.com/MihailDev/yii2-ckeditor",
+    "homepage": "https://github.com/vxdiv/yii2-ckeditor",
     "license": "BSD-3-Clause",
     "type": "yii2-extension",
 	"minimum-stability":"stable",
     "authors": [
         {
             "name": "Mihail",
-            "email": "mihail.kucher@gmail.com",
-            "homepage": "https://github.com/MihailDev",
+            "email": "kr.nd.const@gmail.com",
+            "homepage": "https://github.com/vxdiv",
             "role": "Developer"
         }
     ],
     "autoload": {
-        "psr-4": {"mihaildev\\ckeditor\\": ""}
+        "psr-4": {"vxdiv\\ckeditor\\": ""}
     },
     "require": {
         "yiisoft/yii2": "*"

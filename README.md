@@ -11,13 +11,13 @@ CKEditor — свободный WYSIWYG-редактор, который мож�
 Либо запустить
 
 ```
-php composer.phar require --prefer-dist mihaildev/yii2-ckeditor "*"
+php composer.phar require --prefer-dist vxdiv/yii2-ckeditor "*"
 ```
 
 или добавить
 
 ```json
-"mihaildev/yii2-ckeditor": "*"
+"vxdiv/yii2-ckeditor": "*"
 ```
 
 в разделе `require` вашего composer.json файла.
