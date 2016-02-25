@@ -4,12 +4,12 @@
  * Time: 1:06
  */
 
-namespace mihaildev\ckeditor;
+namespace vxdiv\ckeditor;
 
 use yii\web\AssetBundle;
 
 class Assets extends AssetBundle{
-	public $sourcePath = '@mihaildev/ckeditor/editor';
+	public $sourcePath = '@vxdiv/ckeditor/editor';
 
     public $js = [
         'ckeditor.js',
